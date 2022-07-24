@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @HelgaZambrana
+- 👀 I’m interested in Data Science, Data Analytics and Data Visualization.
+- 🌱 I’m currently learning Python (NumPy, Pandas, Matplotlib & Seaborn and Scikit-learn libraries), Statistics, SQL, and Tableau & Power BI for visual storytelling.
+- 💞️ I am passionate about telling stories with data, developing hands-on projects and insights. 
+- 📫 Let's connect on LinkedIn: https://www.linkedin.com/in/helgazambrana/
