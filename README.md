@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HelgaZambrana
-- 👀 I’m a Data Science and Data Analytics enthusiast.
+- 👀 I’m a Data Science and Data Analytics enthusiast, and a <a href="https://www.itba.edu.ar/posgrado/especializacion-en-ciencia-de-datos/" MSc Data Science Candidate at ITBA</a>.
 - 🌱 I’m currently learning Statistics for Data Science, SQL, Python (NumPy, Pandas, Matplotlib & Seaborn and Scikit-learn libraries) and Tableau.
 - 💞️ I am passionate about telling stories with data, and developing insights with hands-on projects. 
 - 📫 Let's connect on LinkedIn: https://www.linkedin.com/in/helgazambrana/
