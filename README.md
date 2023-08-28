@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HelgaZambrana
-- 👀 I’m a Data Science and Data Analytics enthusiast, and a MSc Data Science Candidate at ITBA.
-- 🌱 I’m currently learning Statistics for Data Science, SQL, Python (NumPy, Pandas, Matplotlib & Seaborn and Scikit-learn libraries) and Tableau.
+- 👀 I’m a Data Science and Data Analytics enthusiast, and a MSc Data Science Candidate at ITBA since August 2023.
+- 🌱 Approved courses: Fundamentals of Data Analysis (started in August 2023). My current stack includes SQL, R, Python (NumPy, Pandas, Matplotlib & Seaborn and Scikit-learn libraries) and Tableau. I am also learning HTML, CSS and JavaScript as a hobby.
 - 💞️ I am passionate about telling stories with data, and developing insights with hands-on projects. 
 - 📫 Let's connect on LinkedIn: https://www.linkedin.com/in/helgazambrana/
