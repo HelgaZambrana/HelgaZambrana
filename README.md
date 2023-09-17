@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HelgaZambrana. I work as a Software Implementation Consultant in Avature.
+- 👋 Hi, I’m @HelgaZambrana. I work as a Software Implementation Consultant in Avature, where I lead projects related to data migration.
 - 👀 I’m a Data Science and Data Analytics enthusiast.
 - 🎓 I am a MSc Data Science Candidate at ITBA since August 2023 currently enrolled in the modules: Fundamentals of Data Analysis, Data Mining.
 - 🌱 My current stack includes SQL, R, Python (NumPy, Pandas, Matplotlib & Seaborn and Scikit-learn libraries), Tableau, Power BI and Docker. I am also learning HTML, CSS and JavaScript as a personal hobby.
