@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HelgaZambrana. I work as a Data Analyst in Avature, where I lead projects related to data migration.
-- 📊 I’m a Data Science and Data Analytics enthusiast.
+- 📊 I’m a curious and enthusiastic learner, eager to explore all aspects of the Data industry.
 - 🎓 I am a Data Science Specialist Candidate at ITBA since August 2023 currently enrolled in the modules: Fundamentals of Data Analysis, Data Mining, Machine Learning Algorithms, Data Warehousing and Online Analytical Processing, Big Data Processing Tools.
 - 🌱 My current stack includes SQL, Python (NumPy, Pandas, Matplotlib & Seaborn and Scikit-learn libraries), Tableau, Power BI and Bash & Git. I am also learning R (Tidyverse and data.table packages) at ITBA.
 - 🤸 As a personal hobby, I am learning FastAPI framework, HTML, CSS and JS for developing websites and Solidity for web3.
