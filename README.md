@@ -3,7 +3,7 @@
 🔧 **Currently:** Data Analyst at Avature (operational analytics, ETL pipelines, SQL/Python). Previously: user growth analytics at Pinterest LATAM, social media analytics at Publicis Brasil & Wunderman Brasil. Also teaching at UADE University.
 
 📊 **Current project:**
-- [F1 Alpine Performance Tracker](link): Real-time race analytics using FastF1 API → Python ETL → Supabase → Tableau dashboards
+- [F1 Alpine Performance Tracker](https://github.com/HelgaZambrana/f1-2026): Real-time race analytics using FastF1 API → Python ETL → Supabase → Tableau dashboards
 
 🎓 **Education:** Data Science Specialization at ITBA (Aug 2023 - present). Completed modules: Fundamentals of Data Analysis, Data Mining, Machine Learning Algorithms, Data Warehousing and Online Analytical Processing, Big Data Processing Tools, Information Visualization, Design and Implementation of Extraction, Transformation and Loading Processes for Large Data Volumes, and Intensive Seminar on Advanced Topics in Complex Data.
 
