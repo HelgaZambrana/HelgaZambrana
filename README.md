@@ -34,7 +34,7 @@ Raw + star schema PostgreSQL architecture → XGBoost → retention vs acquisiti
 
 ## 💻 Stack
 
-SQL · Python (Pandas, Polars, Scikit-learn, XGBoost, MLflow) · Tableau · Git
+SQL · Python (Pandas, Polars, Scikit-learn, MLflow) · Tableau · Git
 Exploring: AWS · Docker · FastAPI
 
 ---
