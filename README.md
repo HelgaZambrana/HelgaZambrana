@@ -18,10 +18,10 @@ Automated ingestion via GitHub Actions. Qualifying gap analysis, tyre strategy a
 ---
 
 **[Asteroid Hazard Classifier](https://github.com/HelgaZambrana/asteroid-hazard-classifier)**
-![Status](https://img.shields.io/badge/status-in%20progress-yellow)
+![Status](https://img.shields.io/badge/status-completed-brightgreen)
 End-to-end ML pipeline to classify potentially hazardous asteroids using real-time NASA NeoWs API data.
 NASA API → Python ETL → Supabase (PostgreSQL) → 5-model benchmark → XGBoost · MLflow · SHAP.
-22,627 asteroids (2021–2026). Developed in the context of the Artemis II launch (April 2026).
+22,617 asteroids (2021–2026). Developed in the context of the Artemis II launch (April 2026).
 
 ---
 
